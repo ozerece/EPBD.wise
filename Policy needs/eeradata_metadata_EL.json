@@ -1,0 +1,25 @@
+{
+	"@context": {
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcat": "http://www.w3.org/ns/dcat#",
+		"dct": "http://purl.org/dc/terms/"
+	},
+	"dc:creator": "0000-0002-8627-9131",
+	"dc:contributor": "0009-0006-5541-5846",
+	"dc:publisher": "Ece Özer",
+	"dc:title": "EPBD.wise_081223_Template for mapping policy needs_EL.docx",
+	"dc:description": "Mapping policy needs for selected countries",
+	"dc:subject": "Energy Efficiency; Energy Economics; Other Supporting Data",
+	"keywords": "long-term renovation strategies, mininum energy performance standards, zero emission buildings, energy performance certificates, member states, policy schemes",
+	"dc:created": "2023-11-18",
+	"dct:accrualPolicy": "Closed",
+	"dct:accrualPeriodicity": "Never",
+	"dct:spatial": "Greece",
+	"dcat:spatialResolutionInMeters": "Country",
+	"dc:type": "dataset",
+	"dc:format": "docx",
+	"dc:language": "eng",
+	"dc:license": "CC BY-NC 4.0",
+	"dc:identifier": "10.70124/pnk70-g8w42",
+	"url": "https://doi.org/10.70124/pnk70-g8w42"
+}
